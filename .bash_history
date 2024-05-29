@@ -21,3 +21,8 @@ sudo su
 sudo su
 suo su
 sudo su
+sudo us
+sudo su
+SUDO SU
+sudo du
+sudo su
